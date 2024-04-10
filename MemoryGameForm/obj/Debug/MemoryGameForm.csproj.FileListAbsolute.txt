@@ -1,0 +1,10 @@
+C:\Users\mpoor\source\repos\MemoryGameForm\obj\Debug\MemoryGameForm.csproj.AssemblyReference.cache
+C:\Users\mpoor\source\repos\MemoryGameForm\obj\Debug\MemoryGameForm.Properties.Resources.resources
+C:\Users\mpoor\source\repos\MemoryGameForm\obj\Debug\MemoryGameForm.csproj.GenerateResource.cache
+C:\Users\mpoor\source\repos\MemoryGameForm\obj\Debug\MemoryGameForm.csproj.CoreCompileInputs.cache
+C:\Users\mpoor\source\repos\MemoryGameForm\obj\Debug\MemoryGameForm.MemoryGameForm.resources
+C:\Users\mpoor\source\repos\MemoryGameForm\bin\Debug\MemoryGameForm.exe.config
+C:\Users\mpoor\source\repos\MemoryGameForm\bin\Debug\MemoryGameForm.exe
+C:\Users\mpoor\source\repos\MemoryGameForm\bin\Debug\MemoryGameForm.pdb
+C:\Users\mpoor\source\repos\MemoryGameForm\obj\Debug\MemoryGameForm.exe
+C:\Users\mpoor\source\repos\MemoryGameForm\obj\Debug\MemoryGameForm.pdb
