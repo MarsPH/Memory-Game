@@ -94,7 +94,9 @@ namespace MemoryGameForm
                            (firstWord == "Pomme" && secondWord == "Apple") ||
                            (firstWord == "Rouge" && secondWord == "Red") ||
                            (firstWord == "Red" && secondWord == "Rouge") ||
-                           (firstWord == "Livre" && secondWord == "Book");
+                           (firstWord == "Livre" && secondWord == "Book"); ||
+                            // I changed here
+                           (firstWord == "Book" && secondWord == "Livre");
                            
 
 
